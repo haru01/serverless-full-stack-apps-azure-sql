@@ -1,0 +1,1 @@
+insert into dbo.[MonitoredRoutes] (RouteId) values (100114);
